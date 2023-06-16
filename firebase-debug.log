@@ -1,0 +1,21 @@
+[debug] [2023-06-16T10:47:00.791Z] ----------------------------------------------------------------------
+[debug] [2023-06-16T10:47:00.796Z] Command:       E:\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2023-06-16T10:47:00.798Z] CLI Version:   12.4.0
+[debug] [2023-06-16T10:47:00.798Z] Platform:      win32
+[debug] [2023-06-16T10:47:00.799Z] Node Version:  v18.13.0
+[debug] [2023-06-16T10:47:00.801Z] Time:          Fri Jun 16 2023 12:47:00 GMT+0200 (Eastern European Standard Time)
+[debug] [2023-06-16T10:47:00.801Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-06-16T10:47:00.815Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-06-16T10:47:00.816Z] > authorizing via signed-in user (popaswqwq@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\react-projects\full-e-commerce-app
+
